@@ -1,0 +1,16 @@
+body{
+    background: lightgrey;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#container{
+    width: 40%;
+    width: 1200px;
+    margin: 0px auto;
+    border: 1px solid black;
+
+}
+
+header{
+    background: rgb(236, 127, 17);
+}
